@@ -1,5 +1,5 @@
 # diegoyasno
-Data Analy# 👋 Hi, I'm Diego Yasno
+👋 Hi, I'm Diego Yasno
 
 I'm a Data Analyst focused on **cloud analytics, automation, and dashboards**.  
 I build real-world data solutions combining **Azure, Python, SQL, and Power BI**.
