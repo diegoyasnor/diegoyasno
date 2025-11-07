@@ -3,6 +3,7 @@
 📍 **Boynton Beach, Florida, USA**  
 💼 **Data Analyst | Python Automation | Azure Cloud | Industrial Engineer**  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/diegoyasno)  
+🗣️ **Languages:** Spanish (Native) 🇨🇴 | English (Professional working proficiency) 🇺🇸
 
 ---
 
