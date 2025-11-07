@@ -1,52 +1,50 @@
-# diegoyasno
-👋 Hi, I'm Diego Yasno
+# 👋 Hi there, I'm Diego Yasno  
 
-I'm a Data Analyst focused on **cloud analytics, automation, and dashboards**.  
-I build real-world data solutions combining **Azure, Python, SQL, and Power BI**.
-
-💡 Passionate about transforming data into decisions — especially in business & operations.
+📍 **Boynton Beach, Florida, USA**  
+💼 **Data Analyst | Python Automation | Azure Cloud | Industrial Engineer**  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/diegoyasno)  
 
 ---
 
-### 🚀 Tech Stack
+## 👨‍💻 Professional Background
 
-| Category | Tools |
-|---|---|
-Data Engineering | Azure SQL, Azure Storage, Logic Apps, Functions  
-Data Analysis | Python (Pandas, NumPy, Matplotlib, Seaborn)  
-Automation | Azure Functions, Logic Apps, Python Scheduling  
-BI / Visualization | Power BI (DAX, Data Modeling)  
-Databases | SQL Server, Azure SQL, MySQL  
-Other | Git, Jupyter Notebooks, VS Code  
+Industrial Engineer and Data Analyst with over **8 years of experience** in data analysis, reporting, and business intelligence.  
+I’ve worked across multiple industries — **nonprofit, travel, retail, and manufacturing** — leading data-driven initiatives that improved decision-making and performance.  
+
+Currently focused on **Python automation, SQL data pipelines, and Azure cloud integration**, building intelligent data workflows that connect real business metrics with cloud solutions.
 
 ---
 
-### 📂 Featured Project
+## 🎓 Education
 
-#### **Restaurant Intelligence Pipeline — Azure + Python + Power BI**
-End-to-end analytics solution with:
-- Data warehouse in Azure SQL
-- Python automation (weekly revenue reports)
-- Logic Apps alerts (inventory & revenue)
-- Power BI dashboard with live cloud data
+**Bachelor of Science in Industrial Engineering (U.S. Equivalency)**  
+Validated by **IEE – International Education Evaluations**, a member of **NACES (National Association of Credential Evaluation Services)**.  
+Originally awarded by **Universidad Distrital Francisco José de Caldas**, Bogotá, Colombia.  
+🗓️ *Evaluation completed: August 2024*  
 
-🔗 **Repo:** https://github.com/diegoyasno/**(pon aquí el link a tu repo)**
-
----
-
-### 🎯 What I’m Working On
-- Advanced cloud data workflows (Azure)
-- Python + SQL automation projects
-- Building portfolio to transition into full-time analytics & cloud roles
+> 🧠 *IEE (International Education Evaluations)* is a U.S.-accredited agency that evaluates foreign degrees for official academic and professional equivalency.  
+> Recognition by **NACES** ensures this degree is equivalent to a U.S. bachelor’s degree and accepted by employers and universities nationwide.
 
 ---
 
-### 📬 Connect With Me
-📍 Boynton Beach, FL  
-💼 Linkedin: https://www.linkedin.com/in/diegoyasno  
-📧 Email: diegoyasnor@gmail.com  
+## 🛠️ Tech Stack & Tools
+
+- **Languages & Libraries:** Python (pandas, numpy, matplotlib, seaborn), SQL  
+- **Visualization:** Power BI, Tableau  
+- **Cloud & Automation:** Microsoft Azure, Azure Logic Apps, Azure Functions  
+- **Data Management:** Azure SQL Database, Excel (Advanced), Git & GitHub  
 
 ---
 
-> “Always forward.”  
-st | Python, SQL &amp; Azure Cloud | Power BI Dashboards | Data Automation &amp; Reporting
+## 🚀 Highlight Project: Restaurant Intelligence System
+
+A full cloud-based data automation pipeline integrating **Python + Azure SQL + Logic Apps + Power BI**:
+- Designed a **star schema (DW)** with dimensions and fact tables in Azure SQL.  
+- Automated **revenue and inventory alerts** using **Logic Apps** and **Python Functions**.  
+- Built a Power BI dashboard to monitor weekly sales, stock status, and performance KPIs.  
+- Deployed the workflow to send **weekly revenue emails** every Monday 9 AM via Logic App.  
+
+---
+
+📫 *Always open to collaborations, data projects, and analytics opportunities in the U.S. and abroad.*  
+
