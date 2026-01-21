@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Professional Background
 
-Industrial Engineer and Data Analyst with over **8 years of experience** in data analysis, reporting, and business intelligence.  
+Industrial Engineer and Data Analyst with over **4 years of experience** in data analysis, reporting, and business intelligence.  
 I’ve worked across multiple industries — **nonprofit, travel, retail, and manufacturing** — leading data-driven initiatives that improved decision-making and performance.  
 
 Currently focused on **Python automation, SQL data pipelines, and Azure cloud integration**, building intelligent data workflows that connect real business metrics with cloud solutions.
